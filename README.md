@@ -1,4 +1,5 @@
 ❇️ Adventure Works Excel Sales Dashboard
+
 A clean, dynamic Excel dashboard built to analyse sales performance using the Adventure Works dataset—focusing on profit trends, regional sales insights, and time-based comparison
 
 2️⃣ Short Description / Purpose
@@ -6,26 +7,38 @@ A clean, dynamic Excel dashboard built to analyse sales performance using the Ad
 The Adventure Works Sales Dashboard is an interactive Excel-based business intelligence tool designed to provide key sales performance insights. It helps users explore trends in revenue, profit, and quantity across time, geography, and weekday patterns—ideal for retail business analysis and Excel portfolio showcasing
 
 3️⃣ Tech Stack
+
 The dashboard was built using the following tools and technologies:
-📊 Microsoft Excel – Primary platform for dashboard development
+
+📊 Microsoft Excel       – Primary platform for dashboard development
 📈 Pivot Tables & Charts – For aggregating and visualizing performance metrics
-🧩 Slicers – Used for interactivity across year, country, and weekday filters
+🧩 Slicers               – Used for interactivity across year, country, and weekday filters
 🎨 Conditional Formatting – Applied to KPIs and charts for visual clarity
 
 4️⃣ Data Source
-Source: Microsoft Adventure Works – a widely used sample dataset for analytics and BI training.
+
+Source: 
+Microsoft Adventure Works – a widely used sample dataset for analytics and BI training.
 This dashboard was built using the following connected tables from the Adventure Works Excel dataset:
 
-📍 Geography: Contains location data like country, state, and city
-🛍️ Sales: Main sales transaction table with details like order date, revenue, quantity, and profit
-📦 Product: Product-level information including name, category, and subcategory etc
-🏢 Contains demographic details such as name, age group, and gender etc
-🧮 Sales Territory: Defines sales regions and territories
-📊 Date: A custom calendar table used to enable time-based analysis
+📍 Geography     -- Contains location data like country, state, and city
 
-All tables were linked using Excel's data model (Power Pivot), with relationships established through primary and foreign keys (e.g., Product Key, Geography Key, Customer Key, and Date Key).
+🛍️ Sales         -- Main sales transaction table with details like order date, revenue, quantity, and profit
+
+📦 Product       --Product-level information including name, category, and subcategory etc
+
+🏢 Customers     --Contains demographic details such as name, age group, and gender etc
+
+🧮 Sales 
+   Territory      -- Defines sales regions and territories
+   
+📊 Date           --A custom calendar table used to enable time-based analysis
+
+All tables were linked using Excel's data model (Power Pivot), with relationships established through primary and foreign keys 
+(e.g., Product Key, Geography Key, Customer Key, and Date Key).
 
 Dashboard 1 :
+
 5️⃣ Features / Highlights
 • Business Problem
 Retail decision-makers often lack intuitive tools to quickly evaluate sales trends, high-performing time periods, and profitability across regions and categories.
