@@ -145,7 +145,7 @@ To allow stakeholders to:
 
 
 📈 Insights You Can Extract
-    ------------------------
+
 
 •	📌 Which product category has the highest total profit over time?
 
@@ -159,8 +159,8 @@ To allow stakeholders to:
 
 
 💼 Business Impact
-    ----------------
-This dashboard is ideal for:
+    
+  This dashboard is ideal for:
 
 •	📈 Sales Leaders to monitor growth and plan for future targets.
 
@@ -174,6 +174,7 @@ This dashboard is ideal for:
 Business Insights & Recommendations
 ------------------------------------
 
+------------------------------------------------------------------------------------------------------------------------------
 🟢 1. Product Pricing Strategy
 
 •	95.4% of profit ($120.52M) comes from products priced above $150.
@@ -181,13 +182,14 @@ Business Insights & Recommendations
 •	Only 4.6% ($5.77M) is contributed by products below $150.
 
 ✅ Suggestions:
-    ------------
+
 •	Focus on Premium Products: Customers are more likely to purchase high-value products. Consider expanding the premium product line.
 
 •	Reduce or Rebrand Low-End Products: Items below $150 are underperforming. Evaluate their cost, marketing, or discontinue underperformers.
 
 •	Bundle Low-End Products: Create bundles that increase perceived value and average order size.
 
+----------------------------------------------------------------------------------------------------------------------------
 🎨 2. Product Color Preferences
 
 •	Black, Red, and Silver are the top 3 profitable colors.
@@ -195,29 +197,29 @@ Business Insights & Recommendations
 •	Multi-color, white, and unspecified products have negligible profits.
 
 ✅ Suggestions:
-    ------------
+   
 •	Stock More Popular Colors: Focus on top-performing colors (Black, Red, Silver).
 
 •	Limit/Redesign Unpopular Colors: Consider redesigning or replacing products in colors like White and Multi.
 
-
+----------------------------------------------------------------------------------------------------------------
 👴 3. Age-Based Targeting
 
 •	Customers aged 50+ contributed nearly 60% of total profit ($75.35M).
 
 ✅ Suggestions:
-    ------------
+  
 •	Target 50+ Segment with customized offers, ads, and premium experiences.
 
 •	Build Loyalty Campaigns for this age group – possibly high-spending repeat customers.
 
-
+---------------------------------------------------------------------------------------------------------------------
 📦 6. Inventory Management
 
 •	Only 158 of 606 products were sold (≈26% sell-through rate), leaving 448 unsold.
 
 ✅ Suggestions:
-    ------------
+    
 •	Improve Inventory Forecasting: Align supply with demand trends.
 
 •	Run Clearance Promotions: Offer discounts or bundles to reduce unsold stock.
