@@ -37,18 +37,27 @@ This dashboard was built using the following connected tables from the Adventure
 All tables were linked using Excel's data model (Power Pivot), with relationships established through primary and foreign keys 
 (e.g., Product Key, Geography Key, Customer Key, and Date Key).
 
-Dashboard 1 :
+
+ Dashboard 1 :
 
 5️⃣ Features / Highlights
-• Business Problem
-Retail decision-makers often lack intuitive tools to quickly evaluate sales trends, high-performing time periods, and profitability across regions and categories.
+
+>> Business Problem
+
+  Retail decision makers often lack intuitive tools to quickly evaluate sales trends, high-performing time periods, and profitability across regions and       categories.
 
 • Goal of the Dashboard
+
 To create a professional Excel dashboard that helps:
+
 -->> Understand sales and profit trends over time
+
 -->> Analyse performance by weekday vs weekend
+
 -->> Identify underperforming time periods or regions
+
 -->> Showcase Excel dashboarding skills to hiring managers
+
 
 • Walkthrough of Key Visuals
 
@@ -70,22 +79,39 @@ Country-Level Filter
 (Buttons/Slicers)        -->> Allows switching views between regions like US, UK, Germany, etc.
 
 📊 Business Insights & Suggestions
+
 1. Maximize Focus on May, June, and December
+   
 •	These three months contributed 31.9% of total annual profit.
+
 •	💡 Suggestion:
+
 o	Investigate seasonal campaigns or promotions run during these months.
+
 o	Consider replicating successful strategies from these months in weaker ones.
+
 o	Increase marketing spend or inventory for these months to capitalize on high performance.
-Underperformance in Quarter 3
+
+2. Underperformance in Quarter 3
+   
 •	Q3 profit is only $24.19M (19%), the lowest of all quarters.
+
 •	💡 Suggestion:
+
 o	Audit Q3 operations: Are there fewer campaigns? Is demand seasonally low?
+
 o	Test new promotions or partnerships during Q3.
+
 o	Explore causes like weather, holidays, or competitor activity affecting Q3.
+
 . Strongest Quarter: Q2
+
 •	Q2 contributes the highest share: $39.02M (31%).
+
 •	💡 Suggestion:
+
 o	Identify which regions/products performed best in Q2 and scale them.
+
 o	Use this insight for inventory and campaign planning in Q2 of next year.
 
 
