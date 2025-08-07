@@ -41,7 +41,7 @@ All tables were linked using Excel's data model (Power Pivot), with relationship
  Dashboard 1 :
 
 5️⃣ Features / Highlights
---------------------------
+
 
 >> Business Problem
 
@@ -60,9 +60,9 @@ To create a professional Excel dashboard that helps:
 -->> Showcase Excel dashboarding skills to hiring managers
 
 
------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 • Walkthrough of Key Visuals
------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 KPI Cards (Top Left)   -->>  Displays key metrics: Quantity, Revenue, Profit, Margin %, COGS, and Transactions
 
@@ -82,9 +82,9 @@ Country-Level Filter
 (Buttons/Slicers)        -->> Allows switching views between regions like US, UK, Germany, etc.
 
 
-------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
 📊 Business Insights & Suggestions
-------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 1. Maximize Focus on May, June, and December
@@ -92,7 +92,7 @@ Country-Level Filter
 •	These three months contributed 31.9% of total annual profit.
 
 •	💡 Suggestion:
-      ------------
+      =
 
 o	Investigate seasonal campaigns or promotions run during these months.
 
@@ -100,13 +100,14 @@ o	Consider replicating successful strategies from these months in weaker ones.
 
 o	Increase marketing spend or inventory for these months to capitalize on high performance.
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Underperformance in Quarter 3
    
 •	Q3 profit is only $24.19M (19%), the lowest of all quarters.
 
 •	💡 Suggestion:
-      ------------
+     
 
 o	Audit Q3 operations: Are there fewer campaigns? Is demand seasonally low?
 
@@ -114,16 +115,20 @@ o	Test new promotions or partnerships during Q3.
 
 o	Explore causes like weather, holidays, or competitor activity affecting Q3.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 3. Strongest Quarter: Q2
 
 •	Q2 contributes the highest share: $39.02M (31%).
 
 •	💡 Suggestion:
-      ------------
+    
 
 o	Identify which regions/products performed best in Q2 and scale them.
 
 o	Use this insight for inventory and campaign planning in Q2 of next year.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 📊 Dashboard 2: 
