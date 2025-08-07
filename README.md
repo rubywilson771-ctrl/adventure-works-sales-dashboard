@@ -41,6 +41,7 @@ All tables were linked using Excel's data model (Power Pivot), with relationship
  Dashboard 1 :
 
 5️⃣ Features / Highlights
+--------------------------
 
 >> Business Problem
 
@@ -59,7 +60,9 @@ To create a professional Excel dashboard that helps:
 -->> Showcase Excel dashboarding skills to hiring managers
 
 
+-----------------------------
 • Walkthrough of Key Visuals
+-----------------------------
 
 KPI Cards (Top Left)   -->>  Displays key metrics: Quantity, Revenue, Profit, Margin %, COGS, and Transactions
 
@@ -78,13 +81,18 @@ Day-wise Profit Distribution
 Country-Level Filter
 (Buttons/Slicers)        -->> Allows switching views between regions like US, UK, Germany, etc.
 
+
+------------------------------------
 📊 Business Insights & Suggestions
+------------------------------------
+
 
 1. Maximize Focus on May, June, and December
    
 •	These three months contributed 31.9% of total annual profit.
 
 •	💡 Suggestion:
+      ------------
 
 o	Investigate seasonal campaigns or promotions run during these months.
 
@@ -92,11 +100,13 @@ o	Consider replicating successful strategies from these months in weaker ones.
 
 o	Increase marketing spend or inventory for these months to capitalize on high performance.
 
+
 2. Underperformance in Quarter 3
    
 •	Q3 profit is only $24.19M (19%), the lowest of all quarters.
 
 •	💡 Suggestion:
+      ------------
 
 o	Audit Q3 operations: Are there fewer campaigns? Is demand seasonally low?
 
@@ -104,11 +114,12 @@ o	Test new promotions or partnerships during Q3.
 
 o	Explore causes like weather, holidays, or competitor activity affecting Q3.
 
-. Strongest Quarter: Q2
+3. Strongest Quarter: Q2
 
 •	Q2 contributes the highest share: $39.02M (31%).
 
 •	💡 Suggestion:
+      ------------
 
 o	Identify which regions/products performed best in Q2 and scale them.
 
@@ -116,53 +127,100 @@ o	Use this insight for inventory and campaign planning in Q2 of next year.
 
 
 📊 Dashboard 2: 
+
+
 This Excel dashboard provides a comprehensive overview of sales revenue, profitability, and trends over time, segmented by category, year, and territory. Designed using the AdventureWorks dataset, it enables business users to quickly evaluate key financial metrics and explore patterns that impact profit growth and sales strategy.
 
+
 🎯 Purpose of the Dashboard
+   -------------------------
+   
 To allow stakeholders to:
+
 •	Track profit and revenue trends over multiple years.
+
 •	Identify the best-performing product categories and sales territories.
+
 •	Gain visibility into profit margins to support strategic decisions.
 
+
 📈 Insights You Can Extract
+    ------------------------
+
 •	📌 Which product category has the highest total profit over time?
+
 •	📌 How does profit margin vary by year or region?
+
 •	📌 Is profit increasing every year, or are there dips?
+
 •	📌 Which sales territories contribute the most to profitability?
+
 •	📌 Do some categories show seasonal or regional trends in profit growth?
+
+
 💼 Business Impact
+    ----------------
 This dashboard is ideal for:
+
 •	📈 Sales Leaders to monitor growth and plan for future targets.
+
 •	💰 Finance Teams to analyze profitability and margins.
+
 •	🛍️ Product Managers to evaluate category performance and make pricing decisions.
+
 •	🌍 Regional Heads to assess performance by territory and implement targeted strategies.
 
+
 Business Insights & Recommendations
+------------------------------------
+
 🟢 1. Product Pricing Strategy
+
 •	95.4% of profit ($120.52M) comes from products priced above $150.
+
 •	Only 4.6% ($5.77M) is contributed by products below $150.
+
 ✅ Suggestions:
+    ------------
 •	Focus on Premium Products: Customers are more likely to purchase high-value products. Consider expanding the premium product line.
+
 •	Reduce or Rebrand Low-End Products: Items below $150 are underperforming. Evaluate their cost, marketing, or discontinue underperformers.
+
 •	Bundle Low-End Products: Create bundles that increase perceived value and average order size.
 
 🎨 2. Product Color Preferences
+
 •	Black, Red, and Silver are the top 3 profitable colors.
+
 •	Multi-color, white, and unspecified products have negligible profits.
+
 ✅ Suggestions:
+    ------------
 •	Stock More Popular Colors: Focus on top-performing colors (Black, Red, Silver).
+
 •	Limit/Redesign Unpopular Colors: Consider redesigning or replacing products in colors like White and Multi.
 
+
 👴 3. Age-Based Targeting
+
 •	Customers aged 50+ contributed nearly 60% of total profit ($75.35M).
+
 ✅ Suggestions:
+    ------------
 •	Target 50+ Segment with customized offers, ads, and premium experiences.
+
 •	Build Loyalty Campaigns for this age group – possibly high-spending repeat customers.
 
+
 📦 6. Inventory Management
+
 •	Only 158 of 606 products were sold (≈26% sell-through rate), leaving 448 unsold.
+
 ✅ Suggestions:
+    ------------
 •	Improve Inventory Forecasting: Align supply with demand trends.
+
 •	Run Clearance Promotions: Offer discounts or bundles to reduce unsold stock.
+
 •	Evaluate Why Products Aren’t Selling: Pricing, presentation, demand mismatch?
 
