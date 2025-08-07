@@ -38,14 +38,23 @@ To create a professional Excel dashboard that helps:
 -->> Showcase Excel dashboarding skills to hiring managers
 
 • Walkthrough of Key Visuals
-🔹 Visual	                                    |            💬 Description
-----------------------------------------------------------------------------------------------------------------------------------------
-KPI Cards (Top Left)                          |          Displays key metrics: Quantity, Revenue, Profit, Margin %, COGS, and Transactions
-Monthly Profit Trend (Line Chart)	            |          Reveals profit peaks in May and dips between July–Sept
-Quarterly Profit (Bar Chart)	                |          Q2 leads with $39M; Q3 is the lowest performer
-Weekday vs Weekend Profit (Pie Chart)         |          Weekdays contribute 72% of profit; weekends 28%
-Day-wise Profit Distribution (Bar Chart)      |        	 Wednesday and Thursday are top-performing days
-Country-Level Filter (Buttons/Slicers)	      |          Allows switching views between regions like US, UK, Germany, etc.
+
+KPI Cards (Top Left)   -->>  Displays key metrics: Quantity, Revenue, Profit, Margin %, COGS, and Transactions
+
+Monthly Profit Trend 
+(Line Chart)	         -->> Reveals profit peaks in May and dips between July–Sept
+
+Quarterly Profit 
+(Bar Chart)            -->> Q2 leads with $39M; Q3 is the lowest performer
+
+Weekday vs Weekend Profit 
+(Pie Chart)             -->> Weekdays contribute 72% of profit; weekends 28%
+
+Day-wise Profit Distribution 
+(Bar Chart)             -->> Wednesday and Thursday are top-performing days
+
+Country-Level Filter
+(Buttons/Slicers)        -->> Allows switching views between regions like US, UK, Germany, etc.
 
 📊 Business Insights & Suggestions
 1. Maximize Focus on May, June, and December
