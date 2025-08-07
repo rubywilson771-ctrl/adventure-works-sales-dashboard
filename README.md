@@ -38,7 +38,7 @@ All tables were linked using Excel's data model (Power Pivot), with relationship
 (e.g., Product Key, Geography Key, Customer Key, and Date Key).
 
 
- Dashboard 1 :
+ Dashboard 1 :  https://github.com/rubywilson771-ctrl/adventure-works-sales-dashboard/blob/main/Snapshot%20of%20Dahboard%201.png
 
 5️⃣ Features / Highlights
 
