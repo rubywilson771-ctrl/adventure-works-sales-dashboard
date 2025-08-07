@@ -131,7 +131,7 @@ o	Use this insight for inventory and campaign planning in Q2 of next year.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-📊 Dashboard 2: https://github.com/rubywilson771-ctrl/adventure-works-sales-dashboard/blob/main/Snapshot%20of%20Dahboard%202.png
+📊 Dashboard 2: ![Dashboard 2 Screenshot](https://github.com/rubywilson771-ctrl/adventure-works-sales-dashboard/blob/main/Snapshot%20of%20Dahboard%202.png?raw=true)
 
 
 This Excel dashboard provides a comprehensive overview of sales revenue, profitability, and trends over time, segmented by category, year, and territory. Designed using the AdventureWorks dataset, it enables business users to quickly evaluate key financial metrics and explore patterns that impact profit growth and sales strategy.
