@@ -1,4 +1,4 @@
-❇️ Adventure Works Excel Sales Dashboard
+**❇️ Adventure Works Excel Sales Dashboard**
 
 A clean, dynamic Excel dashboard built to analyse sales performance using the Adventure Works dataset—focusing on profit trends, regional sales insights, and time-based comparison
 
