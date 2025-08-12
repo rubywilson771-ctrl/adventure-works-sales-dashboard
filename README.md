@@ -1,12 +1,19 @@
 **❇️ Adventure Works Excel Sales Dashboard**
 
+
 A clean, dynamic Excel dashboard built to analyse sales performance using the Adventure Works dataset—focusing on profit trends, regional sales insights, and time-based comparison
 
-2️⃣ Short Description / Purpose
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+**2️⃣ Short Description / Purpose**
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Adventure Works Sales Dashboard is an interactive Excel-based business intelligence tool designed to provide key sales performance insights. It helps users explore trends in revenue, profit, and quantity across time, geography, and weekday patterns—ideal for retail business analysis and Excel portfolio showcasing
 
-3️⃣ Tech Stack
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**3️⃣ Tech Stack**
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 The dashboard was built using the following tools and technologies:
 
@@ -15,10 +22,15 @@ The dashboard was built using the following tools and technologies:
 🧩 Slicers               – Used for interactivity across year, country, and weekday filters
 🎨 Conditional Formatting – Applied to KPIs and charts for visual clarity
 
-4️⃣ Data Source
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+**4️⃣ Data Source**
+--------------------------------------------------------------------------------------------------------------------------------------
 
 Source: 
+
 Microsoft Adventure Works – a widely used sample dataset for analytics and BI training.
+
 This dashboard was built using the following connected tables from the Adventure Works Excel dataset:
 
 📍 Geography     -- Contains location data like country, state, and city
@@ -40,7 +52,9 @@ All tables were linked using Excel's data model (Power Pivot), with relationship
 
  Dashboard 1 :  ![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/adventure-works-sales-dashboard/blob/main/Snapshot%20of%20Dahboard%201.png?raw=true)
  
-5️⃣ Features / Highlights
+ 
+**5️⃣ Features / Highlights**
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 >> Business Problem
